@@ -5,6 +5,7 @@ Open source software to analyze the Indonesian Interregional Input-Output (IRIO)
 1. Activate the virtual environment
 2. In installing the setup: `pip install -e .`
 3. You can read `run structural check irio.py` on how to run the `structural_check_IRIO.py`.
+4. If you download the Indonesian IRIO table from BPS, don't forget to rename the downloaded data as `IRIO Table Indonesia 2016 52 sectors 34 provinces.xlsx` to match with the name in `run structural check irio.py`.
 
 ## Data Availibility
 We use the publicly available data. You can check the "data" folder to use the data in this study. 
